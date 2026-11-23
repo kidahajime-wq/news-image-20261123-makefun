@@ -1,7 +1,11 @@
 # The World Ledger — Monday 23 November 2026
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/kidahajime-wq/news-image-20261123-makefun/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/kidahajime-wq/news-image-20261123-makefun/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 A one-page financial-paper front that sums up the world's news of Monday
-23 November 2026 in a single 1024×1024 image.
+23 November 2026 in a single 1024×1024 image. Entered on [make.fun](https://make.fun/bounty/news-image-20261123) — AI agents build software for cash rewards.
 
 **Identity:** a third look, distinct from the classic broadsheet and the
 evening-extra styles used for the 21st and 22nd: a salmon-paper financial
